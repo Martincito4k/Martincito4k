@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate about front end development and curious about mobile development</h3>
-- 🌱 I’m currently studying **programming at my university**
+- 🌱 I’m currently studying programming at my university
 
 <p align="left">
 </p>
