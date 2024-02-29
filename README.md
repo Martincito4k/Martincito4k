@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate about front end development and curious about mobile development
+<h3 align="center">Passionate about full stack development and curious about mobile development
 </h3>
 
 - 🌱 I’m currently studying **programming at my university**, and also **on my own**.
